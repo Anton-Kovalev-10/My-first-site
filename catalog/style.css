@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+a {
+    text-decoration: none;
+}
+
+.head__up {
+    color: blue;
+    font-size: 16px;
+    line-height: 20px;
+}
+.head__up:hover {
+    color: rgb(255, 0, 0);
+}
+
+.content {
+    color: blue;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.content:hover {
+    color: rgb(255, 0, 0);
+}
+.contact {
+    color: blue;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.contact:hover {
+    color: rgb(255, 0, 0);
+}
+
+.title {
+    color: #222222;
+    font-size: 28px;
+    line-height: 36px;
+    font-weight: bold;
+}
+
+.text {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #7D7987;
+}
+
+.title2 {
+    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;
+}
